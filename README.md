@@ -8,7 +8,7 @@ mydicegame\Die.java
 '''
 This will compile 2 class files of both java files
 
-#To Play
+##To Play
 Similar to the setup, ensure you are one file out of mydicegame folder and type the following to begin running the game
 '''
 javac mydicegame\DiceGame
