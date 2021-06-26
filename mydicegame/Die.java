@@ -1,5 +1,3 @@
-// ANTHONY MASSAAD
-// 101150282
 package mydicegame; 
 import java.util.Random;
 
